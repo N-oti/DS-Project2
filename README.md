@@ -45,6 +45,17 @@ This project written in pyathon and followig libraries need to be installed:
 
 3. Go to http://0.0.0.0:3001/
 
+### ScreenShot
+
+### ScreenShots
+<img src="/ScreenShot/Screen Shot 2020-12-10 at 6.49.12 PM.png" alt="Pict1"/>
+
+<img src="/ScreenShot/Screen Shot 2020-12-10 at 6.54.50 PM.png" alt="Pict2"/>
+
+<img src="/ScreenShot/newplot.png" alt="Pict3"/>
+
+ <img src="/ScreenShot/Screen Shot 2020-12-10 at 6.58.54 PM.png" alt="Pict4"/>
+
 
 ### License & Acknowledgements :
 

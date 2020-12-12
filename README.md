@@ -4,6 +4,7 @@
 ### Motivation
 
 This project is to build a model for an API that classifies disaster messages.It will include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
+This app can help emergency operator during the disatser to classify the disaster text messages into different categories which can be tranmitted to the responsiple entity to provide the required help.
 
 ### Installation
 
